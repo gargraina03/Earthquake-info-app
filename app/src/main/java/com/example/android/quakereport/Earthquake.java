@@ -2,6 +2,7 @@ package com.example.android.quakereport;
 
 /**
  * Created by Raina on 26-06-2017.
+ * But improved by vulfpeck on 15-10-2018
  */
 
 public class Earthquake {
